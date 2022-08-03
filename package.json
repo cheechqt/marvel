@@ -9,6 +9,7 @@
     "parcel-bundler": "^1.12.5"
   },
   "dependencies": {
+    "api.js": "^0.0.5",
     "axios": "^0.27.2"
   }
 }
